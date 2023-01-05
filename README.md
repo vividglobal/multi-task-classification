@@ -185,4 +185,14 @@ image-path : DATAFOLDER / label_1/ label_2 /.../ label_n / *.jpg
     --cfg YOUR_PATH/train_config.yaml \
     --data YOUR_PATH/data.yaml 
 ```
+
+## Reference 
+
+[Deep Residual Learning for Image Recognition.](https://arxiv.org/abs/1512.03385)
+
+[MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381)
+
+[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.](https://arxiv.org/abs/1707.01083)
+
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.](https://arxiv.org/abs/1905.11946v1?fbclid=IwAR15HgcBlYsePX34qTK2aHti_GiucEYpQHjben-8wsTf7O83YPhrJQgXEJ0)
     
